@@ -1,5 +1,5 @@
 # Szymon Surówka
-![Szymon Surowka](https://i.ibb.co/jyfKbDg/Szymon-jpg.png)
+![Szymon Surowka](https://ibb.co/k4Bn5XQ)
 
 ## Contact information:
 
