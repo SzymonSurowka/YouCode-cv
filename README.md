@@ -40,8 +40,8 @@ init();
 ## Experience
 
 My basic knowledge allowed me to prepare two simple websites (in Polish language):
-https://szymonsurowka.github.io/Currency-Exchanger/
-https://szymonsurowka.github.io/Homepage-/
+- https://szymonsurowka.github.io/Currency-Exchanger/
+- https://szymonsurowka.github.io/Homepage-/
 
 I am currently working as a junior finance and accounting specialist (since 2022).
 
