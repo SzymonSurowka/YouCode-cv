@@ -46,6 +46,10 @@ My basic knowledge allowed me to prepare two simple websites (in Polish language
 
 I am currently working as a junior finance and accounting specialist (since 2022).
 
+### Work for companies
+- Ingram Micro (the Netherlands)
+- Capgemini Polska Sp. z o.o.
+
 ## Education
 
 **Online courses:**
