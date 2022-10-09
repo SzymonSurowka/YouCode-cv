@@ -2,9 +2,9 @@
 
 ## Contact information:
 
-**Phone:** (+48) 509677889
-**E-mail:** szymon121122@gmail.com
-**linkedin** https://www.linkedin.com/in/szymon-sur%C3%B3wka-7622001a8/
+- **Phone:** (+48) 509677889
+- **E-mail:** szymon121122@gmail.com
+- **linkedin** https://www.linkedin.com/in/szymon-sur%C3%B3wka-7622001a8/
 
 ## Summary
 
