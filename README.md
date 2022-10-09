@@ -48,8 +48,8 @@ I am currently working as a junior finance and accounting specialist (since 2022
 ## Education
 
 **Online courses:**
-- websamuraj
-- YouCode
+- https://websamuraj.pl/
+- https://youcode.pl/zostawiam-maila/
 
 **Games:**
 - https://cssgridgarden.com/#pl
